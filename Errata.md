@@ -41,8 +41,8 @@ Figure 8.14: Forward model should have an input for the actions and be concatena
 ### Listing 8.11
 Code: The if statement related to the use of extrinsic reward should be fixed, "if use_extrinsic" not "if use_explicit", also in its relative balloon annotation. 
 
-
-
+## Appendix
+In text above the $f(x,y)=(Ax+By,Cx+Dy)$ should be corrected to "To find $\dot{x}$" from "To find $x$"
 
 
 
